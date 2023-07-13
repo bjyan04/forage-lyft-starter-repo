@@ -4,8 +4,11 @@ This repo has everything you need to get started on the program, good luck!
 # Forage Lyft Back-End Engineering Virtual Experience Program
 
 Task1: Software Architecture 
+
 Task2: Refactoring 
+
 Task3: Unit-Testing 
+
 Task4: Test-Driven Development
 
 Lyft is in the process of rolling out a new rental fleet in the hopes of encouraging more connected, sustainable cities across the US.
