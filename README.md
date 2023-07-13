@@ -15,5 +15,5 @@ Your team has inherited an urgent project from a fellow colleague here at Lyft w
 The component itself is responsible for determining whether cars in Lyft’s new rental fleet should be serviced when they are returned. The work you will do on this component will be carried through each of the tasks within this program.
 
 
-https://github.com/vagabond-systems/forage-lyft-task-2-model-answer /n
+https://github.com/vagabond-systems/forage-lyft-task-2-model-answer \n
 https://github.com/vagabond-systems/forage-lyft-task-3-model-answer
