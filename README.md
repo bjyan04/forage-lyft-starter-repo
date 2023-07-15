@@ -5,8 +5,6 @@ This repo has everything you need to get started on the program, good luck!
 
 Task1: Software Architecture 
 
-file:///C:/Users/bjyan/Downloads/Model%20Answer%20-%20Diagram.pdf
-
 Task2: Refactoring 
 
 https://github.com/vagabond-systems/forage-lyft-task-2-model-answer
